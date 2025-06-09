@@ -1,10 +1,10 @@
-# 🧠 Agentic AI Auto Scheduler
+#🧠 Agentic AI Auto Scheduler
 
 A fully local end-to-end **Agentic AI Scheduler** that reads real-world data, applies LLM-based reasoning, and autonomously generates your weekly schedule — integrating directly with Google Calendar and Todoist.
 
 ---
 
-## 🚀 Project Summary
+#🚀 Project Summary
 
 This project explores how Large Language Models can move beyond simple text generation into real-world agentic reasoning. The system reads my real calendar and task data, reasons through priorities, constraints, and deadlines, and generates an optimized schedule that is directly written back into my calendar.
 
