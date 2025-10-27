@@ -1,10 +1,10 @@
-#🧠 Agentic AI Auto Scheduler
+#Agentic AI Auto Scheduler
 
 A fully local end-to-end **Agentic AI Scheduler** that reads real-world data, applies LLM-based reasoning, and autonomously generates your weekly schedule — integrating directly with Google Calendar and Todoist.
 
 ---
 
-#🚀 Project Summary
+#Project Summary
 
 This project explores how Large Language Models can move beyond simple text generation into real-world agentic reasoning. The system reads my real calendar and task data, reasons through priorities, constraints, and deadlines, and generates an optimized schedule that is directly written back into my calendar.
 
@@ -23,7 +23,7 @@ The entire pipeline runs fully locally using LLaMA 3 via Ollama, keeping all dat
 
 ---
 
-## 📊 System Flow
+## System Flow
 
 ```text
 1️⃣ Read Google Calendar → Free time slots
@@ -33,7 +33,7 @@ The entire pipeline runs fully locally using LLaMA 3 via Ollama, keeping all dat
 5️⃣ Parse & display in Streamlit
 6️⃣ Write finalized schedule back to Google Calendar
 ---
-## 🔧 Technologies Used
+## Technologies Used
 Python (Backend)
 
 Streamlit (Frontend)
@@ -50,3 +50,4 @@ LLaMA 3 (Agentic Reasoner)
 Clone the repository
 git clone https://github.com/yourusername/agentic-ai-auto-scheduler.git
 cd agentic-ai-auto-scheduler
+
