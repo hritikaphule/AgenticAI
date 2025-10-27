@@ -4,7 +4,7 @@ A fully local end-to-end **Agentic AI Scheduler** that reads real-world data, ap
 
 ---
 
-#Project Summary
+# Project Summary
 
 This project explores how Large Language Models can move beyond simple text generation into real-world agentic reasoning. The system reads my real calendar and task data, reasons through priorities, constraints, and deadlines, and generates an optimized schedule that is directly written back into my calendar.
 
@@ -50,5 +50,6 @@ LLaMA 3 (Agentic Reasoner)
 Clone the repository
 git clone https://github.com/yourusername/agentic-ai-auto-scheduler.git
 cd agentic-ai-auto-scheduler
+
 
 
