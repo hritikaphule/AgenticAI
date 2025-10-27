@@ -1,4 +1,4 @@
-#Agentic AI Auto Scheduler
+# Agentic AI Auto Scheduler 
 
 A fully local end-to-end **Agentic AI Scheduler** that reads real-world data, applies LLM-based reasoning, and autonomously generates your weekly schedule — integrating directly with Google Calendar and Todoist.
 
@@ -50,4 +50,5 @@ LLaMA 3 (Agentic Reasoner)
 Clone the repository
 git clone https://github.com/yourusername/agentic-ai-auto-scheduler.git
 cd agentic-ai-auto-scheduler
+
 
